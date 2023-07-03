@@ -1,4 +1,8 @@
 header {
+    background-color: #668bc5;
+    color: rgb(221, 194, 194);
+}    .cabecalho-imagem{
+    width: 20%;
   background-color: #668bc5;
   color: rgb(221, 194, 194);
 }   
@@ -22,3 +26,5 @@ header {
   margin: 0;
   padding: 0;
 }
+.escola-imagem{
+      width: 25%;   
